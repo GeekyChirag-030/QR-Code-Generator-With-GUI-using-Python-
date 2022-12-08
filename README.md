@@ -46,3 +46,6 @@ You can run multiple tests on different devices and applications to check if the
 There are also some restrictions when using QR codes such as internet connectivity. When using QR codes, check whether such an environment allows QR codes to be usable.
 
 At the end of the day, QR codes benefit a lot of industries. Aside from saving time and energy, it also allows you to properly measure your marketing campaign, as QR codes provide data that you need. They go through your system and can be further examined through your analytics. Naturally, you must set up the proper metrics such as location, time, and frequency to ensure the success of your promotional campaigns.
+
+
+![image](https://user-images.githubusercontent.com/96729663/206548354-605dee7a-b669-4e87-9b5e-c5155f651029.png)
