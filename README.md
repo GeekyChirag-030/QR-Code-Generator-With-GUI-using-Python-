@@ -56,4 +56,27 @@ At the end of the day, QR codes benefit a lot of industries. Aside from saving t
 
 *Fill the URL for Generating the QR*
 
-![image](https://user-images.githubusercontent.com/96729663/206548354-605dee7a-b669-4e87-9b5e-c5155f651029.png)
+![image](https://user-images.githubusercontent.com/96729663/206549857-e3679011-799e-440b-a8ca-0bab34b436c0.png)
+
+*After Click on the Submit Button , This Window is Displayed*
+
+![image](https://user-images.githubusercontent.com/96729663/206550195-19e170cf-2df3-4049-b198-e158785918e9.png)
+
+*To Save the File , Click on Submit Button and then Save as Dialog Box is opened , and save the file using click on save*
+
+![image](https://user-images.githubusercontent.com/96729663/206550774-ca97bf61-9a98-49f5-b8a3-03b6470c7061.png)
+
+*After Click On Check to ensure Save , A new Message box with Successfull saved is open and then asking from you to display qr or not , if Yes then QR is also Displayed on main window*
+
+![image](https://user-images.githubusercontent.com/96729663/206551277-cd5c7c0b-5b68-4537-83bb-03d0b49b0767.png)
+
+*Used to Recently Deleted QR*
+
+![image](https://user-images.githubusercontent.com/96729663/206551413-a1eee4b7-fe9b-4e82-9470-0836364729d6.png)
+
+*Used to Quit from the App or QR Code Generator*
+
+![S](https://user-images.githubusercontent.com/96729663/206551595-eac7536f-af24-4fe9-84cd-933b3326e84e.png)
+
+*Generated QR of www,github.com*
+
