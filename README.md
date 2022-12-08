@@ -48,4 +48,12 @@ There are also some restrictions when using QR codes such as internet connectivi
 At the end of the day, QR codes benefit a lot of industries. Aside from saving time and energy, it also allows you to properly measure your marketing campaign, as QR codes provide data that you need. They go through your system and can be further examined through your analytics. Naturally, you must set up the proper metrics such as location, time, and frequency to ensure the success of your promotional campaigns.
 
 
+![image](https://user-images.githubusercontent.com/96729663/206548818-af8eb50c-d8bf-4b10-8e4a-9625288afc68.png)
+
+*This is the GUI Interface of the Python QR Code Generator*
+
+![image](https://user-images.githubusercontent.com/96729663/206548971-e229d702-e2d3-4ebc-9cfc-6a1cd934d60a.png)
+
+*Fill the URL for Generating the QR*
+
 ![image](https://user-images.githubusercontent.com/96729663/206548354-605dee7a-b669-4e87-9b5e-c5155f651029.png)
